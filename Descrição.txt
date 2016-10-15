@@ -1,0 +1,3 @@
+A principal missão desse repositório e dividir conhecimento de Box2D + JavaScript + Html5 em PORTUGUÊS!
+
+Códigos com comentários em PORTUGUÊS!
